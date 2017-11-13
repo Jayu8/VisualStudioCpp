@@ -1,3 +1,5 @@
-1. See the UP_ARROW MARK ans PENCIL ICON which is at BOTTOM OF EDITOR (WHERE READY IS PRESENT) and press it.
-2. They become staged once clicked, type commit message
-3. Push it
+1. See the PENCIL ICON which is at BOTTOM OF EDITOR (WHERE READY IS PRESENT) and press it.
+2. They become staged once clicked.
+3. Type commit message and COMMIT ALL , POPUP -> SAVE ALL
+4. See the UPWARD_ARROW mark at bottom press it.
+5. Now click Push in that window
