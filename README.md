@@ -1,2 +1,1 @@
-# VisualStudioCpp
-C++
+# VisualStudioCppC++ examples
